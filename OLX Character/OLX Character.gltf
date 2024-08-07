@@ -3,7 +3,7 @@
     {
       "bufferView": 0,
       "componentType": 5126,
-      "count": 1578,
+      "count": 1470,
       "max": [
         20.834333419799805,
         22.969932556152344,
@@ -11,7 +11,7 @@
       ],
       "min": [
         -20.834333419799805,
-        -29.202823638916016,
+        -28.73881721496582,
         4.7557220458984375
       ],
       "type": "VEC3"
@@ -20,20 +20,20 @@
       "bufferView": 0,
       "byteOffset": 12,
       "componentType": 5126,
-      "count": 1578,
+      "count": 1470,
       "type": "VEC3"
     },
     {
       "bufferView": 0,
       "byteOffset": 24,
       "componentType": 5126,
-      "count": 1578,
+      "count": 1470,
       "type": "VEC2"
     },
     {
       "bufferView": 1,
       "componentType": 5125,
-      "count": 6756,
+      "count": 6090,
       "type": "SCALAR"
     }
   ],
@@ -43,20 +43,20 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 50496,
+      "byteLength": 47040,
       "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 27024,
-      "byteOffset": 50496,
+      "byteLength": 24360,
+      "byteOffset": 47040,
       "target": 34963
     }
   ],
   "buffers": [
     {
-      "byteLength": 77520,
+      "byteLength": 71400,
       "uri": "OLX Character.bin"
     }
   ],
@@ -92,7 +92,7 @@
   ],
   "meshes": [
     {
-      "name": "Box003",
+      "name": "Box002",
       "primitives": [
         {
           "attributes": {
@@ -128,28 +128,28 @@
         1.0
       ],
       "mesh": 0,
-      "name": "Box003"
+      "name": "Box002"
     },
     {
       "children": [
         0
       ],
       "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
         -1.0,
         0.0,
+        8.742277657347586e-08,
+        0.0,
+        8.742277657347586e-08,
+        0.0,
+        1.0,
+        0.0,
         0.0,
         1.0,
         0.0,
         0.0,
         0.0,
-        -0.26097156524658205,
-        0.0,
+        -0.047557220458984376,
+        -0.0052583181858062746,
         1.0
       ]
     }
