@@ -1,0 +1,12 @@
+Forklift - homeZ 0.8, Scale 1.4
+Hammer – homeZ 0.7, scale 0.8
+Shovel – homeZ 0.6
+Minecart – scale 0.5
+Box crate – scale 1.09
+Barrel – scale 0.7
+Open crate – scale 0.7
+All railroad tracks – scale 1.1, homeZ 0.5
+Lantern – scale 0.5
+Pickaxe - scale 0.5, homeZ 0.8
+
+This is what I used to position everything if you feel it needs to be different feel free to change them.
